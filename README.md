@@ -28,6 +28,15 @@ Use Bootstrap. Parta de cualquier ejemplo: https://getbootstrap.com/docs/4.1/exa
 | 1.0 | Complementa las definiciones de Bootstrap con sus propias definiciones en style.css |
 | 1.0 | La calidad total de lo presentado destaca entre el nivel del curso. |
 
+#### Entregas
+
+- Braulio Cárdenas Albornoz
+- Daniela Castellanos
+- Camila Chocobar Ibacache
+- Bárbara Leal Carmona
+- Susana Mendez Del Canto
+- Luis Salazar Figueroa
+
 - - - - - - - 
 
 [Clase anterior](https://github.com/profesorfaco/multimedia2_3) | [Siguiente clase](https://github.com/profesorfaco/multimedia2_5)
