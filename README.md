@@ -1,8 +1,12 @@
-# multimedia2_4
+Diseño Gráfico · Universidad de Chile
+
+# Multimedia II
+
+### Evaluación
 
 Hoy corresponde evaluar el el aprovechamiento en lo expuesto en clases [1](https://github.com/profesorfaco/multimedia2_1/), [2](https://github.com/profesorfaco/multimedia2_2/) y [3](https://github.com/profesorfaco/multimedia2_3/).
 
-### INSTRUCCIONES
+#### Instrucciones:
 
 En GitHub, crear un repositorio de nombre “evaluacion_1”
 
@@ -12,10 +16,10 @@ Prepare un sitio web, de 3 páginas: index.html, single.html, about.html. La pri
 
 Use Bootstrap. Parta de cualquier ejemplo: https://getbootstrap.com/docs/4.1/examples/
 
-### CRITERIOS DE EVALUACIÓN
+### Criterios de evaluación:
 
 | Puntos | Criterio |
-|:---:|---|
+|:---:|:---|
 | 1.0 | Punto base. |
 | 1.0 | Envía correo a profesor@faco.cl, con asunto “Evaluación: 13 de abril”, en el cuerpo del correo indica la URL de su repositorio en GitHub y la URL de su GitHub Page (cumpliendo con la indicación del nombre: evaluacion_1).     |
 | 1.0 | Los contenidos textuales del sitio ofrecen consistencia y un mínimo de desarrollo. O sea, no usa únicamente Lorem Ipsum, también agregar textos lógicos respecto de algún tema (no importa que se trata solo de copy/paste). Esto lo cumple en las 3 páginas solicitadas (index.html, single.html, about.html) |
