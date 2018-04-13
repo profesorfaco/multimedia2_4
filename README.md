@@ -16,7 +16,7 @@ Prepare un sitio web, de 3 páginas: index.html, single.html, about.html. La pri
 
 Use Bootstrap. Parta de cualquier ejemplo: https://getbootstrap.com/docs/4.1/examples/
 
-### Criterios de evaluación:
+#### Criterios de evaluación:
 
 | Puntos | Criterio |
 |:---:|:---|
