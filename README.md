@@ -30,12 +30,12 @@ Use Bootstrap. Parta de cualquier ejemplo: https://getbootstrap.com/docs/4.1/exa
 
 #### Entregas
 
-- Braulio Cárdenas Albornoz
-- Daniela Castellanos
-- Camila Chocobar Ibacache
-- Bárbara Leal Carmona
-- Susana Mendez Del Canto
-- Luis Salazar Figueroa
+- Braulio Cárdenas Albornoz → https://brauliocardenas.github.io/evaluacion_1/
+- Daniela Castellanos → No entrega
+- Camila Chocobar Ibacache → https://camilachocobar.github.io/evaluacion_1/
+- Bárbara Leal Carmona → https://powerpudu.github.io/Evaluacion_1/
+- Susana Mendez Del Canto → No entrega
+- Luis Salazar Figueroa → https://luissalazarfigueroa.github.io/evaluacion_1/
 
 - - - - - - - 
 
