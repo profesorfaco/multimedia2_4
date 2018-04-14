@@ -34,7 +34,6 @@ Use Bootstrap. Parta de cualquier ejemplo: https://getbootstrap.com/docs/4.1/exa
 - Daniela Castellanos → No entrega
 - Camila Chocobar Ibacache → https://camilachocobar.github.io/evaluacion_1/
 - Bárbara Leal Carmona → https://powerpudu.github.io/Evaluacion_1/
-- Susana Mendez Del Canto → No entrega
 - Luis Salazar Figueroa → https://luissalazarfigueroa.github.io/evaluacion_1/
 
 - - - - - - - 
