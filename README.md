@@ -30,11 +30,11 @@ Use Bootstrap. Parta de cualquier ejemplo: https://getbootstrap.com/docs/4.1/exa
 
 #### Entregas
 
-- Braulio Cárdenas Albornoz → https://brauliocardenas.github.io/evaluacion_1/ → **5.8**
-- Daniela Castellanos → No entrega → **1.0**
-- Camila Chocobar Ibacache → https://camilachocobar.github.io/evaluacion_1/ → **4.8**
-- Bárbara Leal Carmona → https://powerpudu.github.io/Evaluacion_1/ → **5.0**
-- Luis Salazar Figueroa → https://luissalazarfigueroa.github.io/evaluacion_1/ → **6.0** 
+- Braulio Cárdenas Albornoz → https://brauliocardenas.github.io/evaluacion_1/ → 5.8 / 7.0
+- Daniela Castellanos → No entrega → 1.0 / 7.0
+- Camila Chocobar Ibacache → https://camilachocobar.github.io/evaluacion_1/ → 4.8 / 7.0
+- Bárbara Leal Carmona → https://powerpudu.github.io/Evaluacion_1/ → 5.0 / 7.0
+- Luis Salazar Figueroa → https://luissalazarfigueroa.github.io/evaluacion_1/ → 6.0 / 7.0
 
 - - - - - - - 
 
